@@ -1,0 +1,6 @@
+String channel
+Float32 delay
+String topic
+Bool force
+---
+Bool status
